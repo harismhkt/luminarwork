@@ -1,0 +1,51 @@
+.main{
+    background-color: tomato;
+    width: 800px;
+    height: 800px;
+    position: relative;
+    margin-top: 20px;
+   }
+.col1{
+    background-color: teal;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+
+}
+.col2{
+    background-color: rgb(28, 0, 128);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 26%;
+    
+}
+.col3{
+    background-color: rgb(179, 85, 8);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 52%;
+}
+.im1{
+    width: 200px;
+    width: 200px;
+    position: absolute;
+    top: 0;
+}
+.im2{
+    width: 200px;
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 5%;
+}
+.im3{
+    width: 200px;
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 52%;

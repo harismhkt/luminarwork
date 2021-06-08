@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+
+
+body{
+    background-color: black;
+    font-family: 'Pattaya', sans-serif;
+    text-align: center;
+    color: blanchedalmond;
+}
+.sub1{
+    border: 2px solid rgb(241, 12, 12);
+    float: left;
+    margin-left: 2px;
+    color: rgb(245, 230, 230);
+    background-color: burlywood;
+}
+.sub2{
+    border: 2px solid rgb(5, 214, 22);
+    float: left;
+}
+.sub3{
+    border: 2px solid rgb(211, 9, 150);
+    float: left;
+}
